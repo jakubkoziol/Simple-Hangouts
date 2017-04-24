@@ -1,0 +1,41 @@
+/* Remove the background */
+.g-Qx {
+	display: none;
+}
+
+/* Remove the top-left logo */
+#gbq1 {
+	display: none;
+}
+
+#hangout-landing-chat {
+/* Move the list higher */
+	top: 10px !important;
+/* Adjust the horizontal position to take into consideration the compressed menu */
+	left: 48px !important;
+}
+
+/* Hide the 'hi user' bullshit */
+.g-Ue-v0h5Oe {
+	display: none !important;
+}
+
+/* Make it possible to click the overlapping piece of the list */
+.g-Ue-OkO9ve {
+	pointer-events: none;
+}
+
+/* Re-enable pointer-events for the top-right toolbox */
+.gb_sc {
+    pointer-events: auto;
+}
+
+/* Remove the redundant menu button */
+.M9Bg4d {
+	display: none;
+}
+
+/* Compress the menu on the left */
+.bdXzDb {
+	left: 0 !important;
+}
