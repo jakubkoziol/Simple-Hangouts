@@ -5,8 +5,7 @@
       "matches": [ "https://hangouts.google.com/*" ]
    } ],
    "description": "Hide the background and unnecessary clutter from the hangouts.google.com.",
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwx8z1RM/PAD48qq9xbB2Ch/J278YBKpBy2ygOyl7Q9hp8OFO7txDuzGMl9S0ccFaiNC0pos8rNe59+RtIDG23SLZzaxhcw/BopLBXTP27VKRKZbB2PilT+MlocN0SPisKe0gJI1uECFFrhyeQfNZKwFq8RgTMMJM18C7U11GkA39pTOdKdazQFJXNC783CXl6Z00iC3bg7O1jgUxFbMznnTKZaKleCJNCl9hij1b7KaFEfo7xhtoEmrXx44ilILU12DsAupIX2Hc6rfLgmJ02XuiCBfpGXdpucvjqR7eMBmmsbM+HYh3+m5GsJZ2lSQ3SEd0LKfFwHhU+Gpu6NneKQIDAQAB",
    "manifest_version": 2,
    "name": "Simple Hangouts",
-   "version": "0.4"
+   "version": "0.5"
 }

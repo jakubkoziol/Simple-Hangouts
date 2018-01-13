@@ -15,7 +15,7 @@
     left: 48px !important;
 }
 
-/* Hide the 'hi user' bullshit */
+/* Hide the 'hi user' section */
 .g-Ue-v0h5Oe {
     display: none !important;
 }
@@ -23,6 +23,11 @@
 /* Make it possible to click the overlapping piece of the list */
 .g-Ue-OkO9ve {
     pointer-events: none;
+}
+
+/* Re-enable the top-right corner menu */
+.gb_Ac.gb_Eg.gb_R {
+    pointer-events: auto;
 }
 
 /* Re-enable pointer-events for the top-right toolbox */
